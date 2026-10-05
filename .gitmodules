@@ -4,3 +4,6 @@
 [submodule "KiCad-Project"]
 	path = KiCad-Project
 	url = https://github.com/K-State-Prostetic-Design/KiCad-Project.git
+[submodule "Gerber-BOM"]
+	path = Gerber-BOM
+	url = https://github.com/K-State-Prostetic-Design/Gerber-BOM.git
