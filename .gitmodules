@@ -1,3 +1,6 @@
 [submodule "ESP32-Signal-Getter"]
 	path = ESP32-Signal-Getter
 	url = https://github.com/K-State-Prostetic-Design/ESP32-Signal-Getter.git
+[submodule "KiCad-Project"]
+	path = KiCad-Project
+	url = https://github.com/K-State-Prostetic-Design/KiCad-Project.git
